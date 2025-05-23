@@ -18,11 +18,7 @@ Seção de habilidades com barras de progresso.
 
 Seção de tecnologias dominadas, com indicadores visuais de conhecimento.
 
-Formulário de comentários na página de aprendizado (HTML + CSS, sem backend).
-
 Página de depoimentos de clientes simulados, com nome, imagem e comentários.
-
-Seção para galeria de fotos, pessoais ou temáticas (mínimo de 10 imagens).
 
 Formulário para lançamento de novos depoimentos (HTML + CSS).
 
