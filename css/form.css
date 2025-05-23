@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen {
+  :autofill{
+    align-self: center;
+  }
+}
+
+body {
+  font-family: "Poppins";
+  background-color: #ffffff;
+  background-size: 395vh;
+  background-repeat: repeat;
+
+}
+
+img{
+    display: block;
+    gap: 8px;
+    height: 40px;
+    width: 40px;
+
+}
+
+main {
+  margin-top: 50px;
+}
+
+
+.formulario-contato {
+  max-width: 500px;
+  margin: 50px auto;
+  background-color: #6a4ede;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.formulario-contato span{
+  color: #ffffff;
+}
+
+.formulario-contato h1 {
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.formulario-contato form label {
+  color: #ffffff;
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.formulario-contato form input,
+.formulario-contato form textarea {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.formulario-contato form button {
+  margin-top: 20px;
+  width: 100%;
+  padding: 12px;
+  background-color: blue;
+  color: #ffffff;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.formulario-contato form button:hover {
+  background-color: blue;
+}
+
+.botao-contato {
+  display: inline-block;
+  padding: 18px 24px;
+  background-color: #ef4a4a;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.botao-contato:hover {
+  background-color: #f18a8a;
+}
+
