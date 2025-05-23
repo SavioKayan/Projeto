@@ -76,16 +76,6 @@ git commit -m "feat: adiciona nova seção de depoimentos"
 # Enviar a branch para o GitHub
 git push origin nome-da-branch
 
-=========================================================
-Após enviar a branch:
-
-Acesse o repositório no GitHub.
-
-Clique em "Compare & pull request".
-
-Descreva as alterações e clique em "Create pull request".
-
-Após revisão e aprovação, o PR pode ser mesclado na branch principal (main).
 
 👨‍💻 Sobre o Desenvolvedor
 Olá! Eu sou Sávio Kayan, desenvolvedor front-end apaixonado por tecnologia e desing. Desde o início da minha jornada na programação, encontrei na construção de interfaces uma maneira de unir criatividade, lógica e arte.
